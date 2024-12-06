@@ -1,4 +1,4 @@
-# Java Project with AWS infrastructure for S3 Lamdba
+# Java Project with AWS infrastructure for S3 Lambda
 
 This project was build as a project for the Rocketseat class to learn about building class functions and methods using the AWS cloud.
 
